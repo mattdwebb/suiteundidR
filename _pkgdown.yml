@@ -1,0 +1,5 @@
+url: https://mattdwebb.github.io/suiteundidR/
+destination: docs/site
+template:
+  bootstrap: 5
+
